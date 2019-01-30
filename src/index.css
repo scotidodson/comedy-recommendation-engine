@@ -1,0 +1,13 @@
+.results {
+  background-color: #fff;
+  float: left;
+  width: 60%;
+  padding: 5px;
+}
+
+.form-column {
+  background-color: #fff;
+  float: left;
+  width: 35%;
+  padding: 5px;
+}
